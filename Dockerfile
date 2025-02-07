@@ -1,3 +1,4 @@
+
 FROM tomcat:8.0.20-jre8
 MAINTAINER kamparapusriram@gmail.com
 EXPOSE 8080
